@@ -28,7 +28,7 @@ sanity_check_paths = {
 	'files': ['bin/mustrun'], 
 	'dirs': [], } 
 	
-sanity_check_commands = ["mustrun --version"]
+sanity_check_commands = ["mustrun"]
 
 moduleclass = 'tools'
 
